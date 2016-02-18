@@ -1,0 +1,8 @@
+---la masa
+harina
+levadura
+sal
+---mas ingredientes
+pimienta
+aceite
+oregano
