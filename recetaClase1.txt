@@ -6,3 +6,5 @@ sal
 pimienta
 aceite
 oregano
+---bebidas
+agua
